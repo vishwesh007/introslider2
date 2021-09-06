@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Introslider2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/bg_mainactivity</item>
+        <item name="colorPrimaryDark">@color/bg_screen1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
